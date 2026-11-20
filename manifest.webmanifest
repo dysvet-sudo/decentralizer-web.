@@ -1,0 +1,17 @@
+{
+  "name": "Децентрализатор — путь к мечте",
+  "short_name": "Децентрализатор",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14212c",
+  "theme_color": "#14212c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
