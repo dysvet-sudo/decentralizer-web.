@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#071c38"/><stop offset=".45" stop-color="#593f61"/><stop offset=".76" stop-color="#db8056"/><stop offset="1" stop-color="#182c43"/></linearGradient><linearGradient id="tower" x2="0" y2="1"><stop stop-color="#34485e"/><stop offset="1" stop-color="#091a2e"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#2a4150"/><stop offset="1" stop-color="#071526"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffc58a" stop-opacity=".6"/><stop offset="1" stop-color="#ffb06b" stop-opacity="0"/></radialGradient><pattern id="windows" width="23" height="22" patternUnits="userSpaceOnUse"><path d="M8 6v4m8-4v4" stroke="#ffca8a" stroke-width="2" opacity=".53"/></pattern></defs>
+<path fill="url(#sky)" d="M0 0h1600v1000H0z"/><ellipse cx="1150" cy="530" rx="470" ry="280" fill="url(#glow)"/><circle cx="1190" cy="486" r="48" fill="#ffcc94" opacity=".55"/>
+<path d="M0 640Q190 610 340 646T710 638T1100 620T1600 645V1000H0Z" fill="#182b42" opacity=".75"/>
+<g fill="#16283c"><path d="M0 580h72V460h78v124h45V410h87v178h50V482h105v114h48V422h90v170h32V492h85v100h60v-92h105v112h48V446h116v166h50V526h90v100h46V468h124v170h100V1000H0Z"/></g>
+<g fill="url(#tower)" stroke="#526076" stroke-opacity=".48" stroke-width="2">
+<path d="M710 695h145V360h-22V281h-26V190h-16V105h-7V35h-6v70h-7v85h-16v91h-26v79h-19z"/>
+<path d="M150 716h130V391l-24-35h-82l-24 35z"/><path d="M319 716h102V471l-50-85-52 85z"/><path d="M937 723h132V409l-28-29h-74l-30 29z"/><path d="M1087 723h118V478h-118z"/><path d="M1268 730h115V418l-57-49-58 49z"/>
+</g>
+<g fill="url(#windows)" opacity=".76"><path d="M718 695h126V358H718zM160 710h110V400H160zM331 716h80V472h-80zM949 723h107V420H949zM1098 723h99V487h-99zM1279 723h95V430h-95z"/></g>
+<path fill="url(#water)" d="M0 720h1600v280H0z"/><g stroke="#f9ab79" stroke-linecap="round" opacity=".4"><path d="M90 772h180m350 30h160m380-35h270m-700 90h450M180 919h340m520 16h270m-1150-65h210" stroke-width="3"/><path d="M710 747h150m-110 19h130m-110 18h90m-100 18h100m-90 19h50" stroke-width="2"/></g>
+<path fill="#071522" opacity=".5" d="M0 980V765q200-45 350 10t300 10q180-25 340-10 300 40 610-20v225z"/>
+</svg>
